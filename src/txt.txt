@@ -1,0 +1,22 @@
+
+
+   public void set_Avg( float f){
+       Avg = f;
+   }
+   public void set_Age(int A){
+       Age = A;
+   }
+
+   public int getID(){
+       return ID;
+   }
+
+   public void SetSalary(int s){
+       Salary = s;
+   }
+   public int getSalary(){
+       return Salary;
+   }
+   public float get_avg(){
+       return Avg;
+   }
